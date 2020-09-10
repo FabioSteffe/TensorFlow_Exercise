@@ -1,1 +1,1 @@
-### notes from Tensor Flow Specialization on Coursera
+### Notes from Tensor Flow Specialization @ Coursera
